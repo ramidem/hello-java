@@ -1,5 +1,7 @@
 package src;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, student!");
@@ -19,5 +21,11 @@ public class Main {
         System.out.println("Age: " + studentAge);
         System.out.println("GPA: " + studentGPA);
         System.out.println("Attendance: " + hasPerfectAttendance);
+
+        System.out.println("Update " + studentFullName + "'s GPA?");
+        Scanner input = new Scanner(System.in);
+        studentGPA = input.nextDouble();
+
+        System.out.println(studentFullName + "'s GPA is now " + studentGPA);
     }
 }
