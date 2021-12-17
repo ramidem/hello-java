@@ -13,3 +13,15 @@
     ```sh
     java src.HelloWorld
     ```
+
+## Building Strong Foundations
+
+### Data Types
+
+| **Primitive Types**                | **Reference Types** |
+| ---------------------------------- | ---                 |
+| **Boolean** true eor false value   |                     |
+| **Int** a whole number             |                     |
+| **Double** a decimal number        |                     |
+| **Char** a single letter or symbol |                     |
+
