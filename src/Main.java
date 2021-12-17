@@ -2,6 +2,18 @@ package src;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, IntelliJ!");
+        System.out.println("Hello, student!");
+
+        int studentAge = 15;
+        double studentGPA = 3.45;
+        char studentFirstInitial = 'M';
+        char studentLastInitial = 'A';
+        boolean hasPerfectAttendance = true;
+
+        System.out.println(studentAge);
+        System.out.println(studentGPA);
+        System.out.println(studentFirstInitial);
+        System.out.println(studentLastInitial);
+        System.out.println(hasPerfectAttendance);
     }
 }
