@@ -6,10 +6,10 @@
 
 1. Compile it first.
     ```sh
-    javac HelloWorld.java
+    javac src.HelloWorld.java
     ```
 
 2. Run the program to output `Hello, World!`.
     ```sh
-    java HelloWorld
+    java src.HelloWorld
     ```
