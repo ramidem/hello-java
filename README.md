@@ -25,5 +25,24 @@
 | **Double** a decimal number        |                                                                  |
 | **Char** a single letter or symbol |                                                                  |
 
+### Comparison Operators in Java
+
+Comparison operators are used to compare two values:
+
+| **Operator** | **Name**                 | **Example** |
+|--------------|--------------------------|-------------|
+| `==`         | Equal to                 | `x == y`    |
+| `!=`         | Not Equal                | `x != y`    |
+| `>`          | Greater Than             | `x > y`     |
+| `<`          | Less Than                | `x < y`     |
+| `>=`         | Greater than or equal to | `x >= y`    |
+| `<=`         | Less than or equal to    | `x <= y`    |
+
+### Scope
+
+- The scope of a variable is the part of the program where a piece of code is accessible or in which it can be used.
+- Curly braces create different blocks or regions in Java.
+- The `if` block and the `else` block are separate because they are in different sets of curly brackets.
+
 ## Recommendations
 - [ ] [Programming Foundations: Data Structures](https://www.linkedin.com/learning/programming-foundations-data-structures-2/understand-data-structures?autoAdvance=true&autoSkip=false&autoplay=true&resume=true)
