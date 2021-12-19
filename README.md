@@ -6,12 +6,12 @@
 
 1. Compile it first.
     ```sh
-    javac src.HelloWorld.java
+    javac src.Main.java
     ```
 
 2. Run the program to output `Hello, World!`.
     ```sh
-    java src.HelloWorld
+    java src.Main
     ```
 
 ## Building Strong Foundations
