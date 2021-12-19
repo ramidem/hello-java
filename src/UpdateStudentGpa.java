@@ -2,9 +2,9 @@ package src;
 
 import java.util.Scanner;
 
-public class Main {
+public class UpdateStudentGpa {
     public static void main(String[] args) {
-        System.out.println("Hello, student!");
+        System.out.println("Hello!");
 
         int studentAge = 31;
         double studentGPA = 3.45;

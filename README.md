@@ -6,12 +6,12 @@
 
 1. Compile it first.
     ```sh
-    javac src.Main.java
+    javac src.UpdateStudentGpa.java
     ```
 
 2. Run the program to output `Hello, World!`.
     ```sh
-    java src.Main
+    java src.UpdateStudentGpa
     ```
 
 ## Building Strong Foundations
