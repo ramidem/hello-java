@@ -25,6 +25,8 @@
 | **Double** a decimal number        |                                                                  |
 | **Char** a single letter or symbol |                                                                  |
 
+## Control Flow
+
 ### Comparison Operators in Java
 
 Comparison operators are used to compare two values:
@@ -43,6 +45,18 @@ Comparison operators are used to compare two values:
 - The scope of a variable is the part of the program where a piece of code is accessible or in which it can be used.
 - Curly braces create different blocks or regions in Java.
 - The `if` block and the `else` block are separate because they are in different sets of curly brackets.
+
+### Loops
+
+A loop allows code to be executed repeatedly based on a Boolean condition. One of them is **while** loop.
+
+#### While Loop
+
+The `while` loop loops through a block of code as long as a specified condition is `true`. [src](https://www.w3schools.com/java/java_while_loop.asp)
+
+## Functions
+
+A function is a series of finite steps that accomplish some task.
 
 ## Recommendations
 - [ ] [Programming Foundations: Data Structures](https://www.linkedin.com/learning/programming-foundations-data-structures-2/understand-data-structures?autoAdvance=true&autoSkip=false&autoplay=true&resume=true)
