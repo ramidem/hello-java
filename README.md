@@ -19,7 +19,7 @@
 ### Data Types
 
 | **Primitive Types**                | **Reference Types**                                              |
-| ---                                | ---                                                              |
+|------------------------------------|------------------------------------------------------------------|
 | **Boolean** true eor false value   | **String** a sequence of ordered characters. e.g. word, sentence |
 | **Int** a whole number             |                                                                  |
 | **Double** a decimal number        |                                                                  |
@@ -57,6 +57,17 @@ The `while` loop loops through a block of code as long as a specified condition 
 ## Functions
 
 A function is a series of finite steps that accomplish some task.
+
+## Classes
+
+> A class is a user defined blueprint or prototype from which objects are created. It represents the set of properties or methods that are common to all objects of one type. [src](https://www.geeksforgeeks.org/classes-objects-java/)
+
+- A class can be instantiated by calling the **constructor** -- creates and initializes instances -- of a class that create an instance or object of the type of class.
+- Classes which contain attributes (properties) and behavior (methods) help organize code.
+- Some attributes are associated with each individual instance (instance variables).
+- Class variables or static variables are associated with the whole class. Use dot notation on an instantiated class to access the static variable.
+
+
 
 ## Recommendations
 - [ ] [Programming Foundations: Data Structures](https://www.linkedin.com/learning/programming-foundations-data-structures-2/understand-data-structures?autoAdvance=true&autoSkip=false&autoplay=true&resume=true)
