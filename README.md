@@ -1,6 +1,6 @@
 # Hello, Java!
 
-[Learning Java](https://www.linkedin.com/learning/paths/become-a-java-programmer) for 30 mins a day! just because.
+[Learning Java](https://www.linkedin.com/learning/paths/become-a-java-programmer)!
 
 ## Running the program
 
@@ -66,8 +66,6 @@ A function is a series of finite steps that accomplish some task.
 - Classes which contain attributes (properties) and behavior (methods) help organize code.
 - Some attributes are associated with each individual instance (instance variables).
 - Class variables or static variables are associated with the whole class. Use dot notation on an instantiated class to access the static variable.
-
-
 
 ## Recommendations
 - [ ] [Programming Foundations: Data Structures](https://www.linkedin.com/learning/programming-foundations-data-structures-2/understand-data-structures?autoAdvance=true&autoSkip=false&autoplay=true&resume=true)
